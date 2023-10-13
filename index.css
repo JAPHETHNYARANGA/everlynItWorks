@@ -386,6 +386,6 @@ p{
 }
 img{
   /* height: 70%; */
-  width: 80%;
+  max-width: 100%;
   height: auto;
 }
